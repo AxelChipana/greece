@@ -64,7 +64,7 @@ section {
     width: 100%;
     z-index: 31;
 	animation: reveal-nav 1s ease-in-out forwards;
-	transition: 1s;
+	transition: .5s;
 }
 #navbar.black {
 	background-color: #1e0c1f;
